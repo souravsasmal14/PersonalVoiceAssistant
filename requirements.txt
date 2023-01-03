@@ -1,0 +1,8 @@
+pip install google
+pip install googleapiclient
+pip install pyttsx3
+pip install SpeechRecognition
+pip install wikipedia
+pip install pywhatkit
+pip install pyjokes
+pip install opencv-python
